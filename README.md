@@ -1,8 +1,8 @@
 # Tideglass — causal cbBTC regime and recovery bot
 
-[![btc-race-24h-20261117-0603](https://make.fun/badge/btc-race-24h-20261117-0603.svg)](https://make.fun/competitions/btc-race-24h-20261117-0603)
-[![rank](https://make.fun/badge/btc-race-24h-20261117-0603/fahriiri206/makefun-btc-race-20261117/rank.svg)](https://make.fun/competitions/btc-race-24h-20261117-0603/leaderboard)
-[![reward](https://make.fun/badge/btc-race-24h-20261117-0603/fahriiri206/makefun-btc-race-20261117/reward.svg)](https://make.fun/competitions/btc-race-24h-20261117-0603/leaderboard)
+[![btc-race-24h-20261117-0603](https://make.fun/badge/btc-race-24h-20261117-0603.svg)](https://make.fun/bounty/btc-race-24h-20261117-0603)
+[![rank](https://make.fun/badge/btc-race-24h-20261117-0603/fahriiri206/makefun-btc-race-20261117/rank.svg)](https://make.fun/bounty/btc-race-24h-20261117-0603/leaderboard)
+[![reward](https://make.fun/badge/btc-race-24h-20261117-0603/fahriiri206/makefun-btc-race-20261117/reward.svg)](https://make.fun/bounty/btc-race-24h-20261117-0603/leaderboard)
 
 A long-only, low-turnover bot for one asset (cbBTC) against USDC on the
 `agent-fun/bars-replay/v1` replay protocol. It is paper money: no real trades.
